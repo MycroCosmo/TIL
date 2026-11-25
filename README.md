@@ -38,6 +38,9 @@ docs(<폴더>): <정리한 내용>
 ## 글 목록
 
 ### java
+- [정적 팩터리 메서드](./java/static-factory-method.md)
+- [인스턴스화와 기본 생성자](./java/instantiation-and-default-constructor.md)
+- [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](./java/dependency-injection.md)
 - [HashMap 해시 충돌과 equals/hashCode](./java/hashmap-collision.md)
 - [SimpleDateFormat은 스레드 안전하지 않다](./java/simpledateformat-thread-safety.md)
 - [유틸리티 클래스 제대로 만들기 (JsonUtils 복기)](./java/utility-class-design.md)
